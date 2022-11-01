@@ -1,4 +1,5 @@
 # [DeepPulse: An Uncertainty-aware Deep Neural Network for Heart Rate Estimations from Wrist-worn Photoplethysmography](https://ieeexplore.ieee.org/document/9871813)
+>2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
 
 ## Datasets:
 1. IEEE Train & Test
@@ -37,6 +38,12 @@
 ## Results
 - All results are from unseen data, i.e. the test sets of each fold. 
 - To get a deeper look at model performance, view the png files in each experiment folder. There is a training and calibration image for each fold plus an overall image with lots of graphs :)
+
+| Dataset | MAE | Max AE | Miscalibration Area | Sharpness |
+|---------|-----|--------|---------------------|-----------|
+| IEEE    |     |        |                     |           |
+| BAMI    |     |        |                     |           |
+| DaLiA   |     |        |                     |           |
 
 ## Comments:
 - If you see anything wrong, please get in contact with me! I appreciate any feedback :)
