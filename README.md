@@ -10,7 +10,7 @@
   - [H. Lee, H. Chung, and J. Lee. "Motion artifact cancellation in wearable photoplethysmography using gyroscope." IEEE Sensors Journal 19.3 (2018): 1166-1175.](https://ieeexplore.ieee.org/abstract/document/8529266)
   - [Original Source](https://github.com/hooseok/BAMI1)
   - [BAMI Preprocessed](https://drive.google.com/file/d/1g5gqh6vekEdi3ZT21Cdu_1fkfNjBeUOA/view?usp=share_link)
-3. BAMI
+3. Dalia
   - [A. Reiss, I. Indlekofer, P. Schmidt, and K. Van Laerhoven, “Deep PPG: Large-Scale Heart Rate Estimation with Convolutional Neural Networks,” Sensors, vol. 19, no. 14, p. 3079, Jul. 2019, doi: 10.3390/s19143079](http://dx.doi.org/10.3390/s19143079)
   - [Original Source](https://archive.ics.uci.edu/ml/datasets/PPG-DaLiA)
   - [Dalia Preprocessed](https://drive.google.com/file/d/12DnrzMCV_otfU5_YUbedwRRcIyiHShIm/view?usp=share_link)
