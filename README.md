@@ -41,7 +41,7 @@
 
 | Dataset | MAE | Max AE | Miscalibration Area | Sharpness |
 |---------|-----|--------|---------------------|-----------|
-| IEEE    |     |        |                     |           |
+| IEEE    |  1.16   |    9.99   |   0.18                  |       3.26    |
 | BAMI    |     |        |                     |           |
 | DaLiA   |     |        |                     |           |
 
