@@ -39,4 +39,4 @@
 - To get a deeper look at model performance, view the png files in each experiment folder. There is a training and calibration image for each fold plus an overall image with lots of graphs :)
 
 ## Comments:
-- If you see anything wrong, please get in contact with me! I will greatly appriciate any feedback :)
+- If you see anything wrong, please get in contact with me! I appreciate any feedback :)
