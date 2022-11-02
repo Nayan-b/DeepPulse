@@ -41,9 +41,9 @@
 
 | Dataset | Mean Abs Err | Mean Max Abs Err | Miscalibration Area | Sharpness | Bias | Variance |
 |---------|-----|--------|---------------------|-----------|-----------|-----------|
-| IEEE    | 1.160 ± 0.475 BPM | 9.994 ± 9.943 BPM | 0.177 ± 0.067 | 3.199 ± 0.469 |319.629 ± 212.662	 |316.208 ±	213.480 |
-| BAMI    |     |        |                     |           |
-| DaLiA   |     |        |                     |           |
-
+| IEEE    | 1.160 ± 0.475 BPM | 9.994 ± 9.943 BPM | 0.177 ± 0.067 | 3.199 ± 0.469 | 319.629 ± 212.662 | 316.208 ±	213.480 |
+| BAMI    | 1.652	± 0.402 | 15.963 ± 9.040 | 0.056 ± 0.034 | 2.389 ± 0.259 | 356.309 ± 194.847 | 354.717 ± 192.778 |
+| DaLiA   |     |        |                     |           |  |  |
+					
 ## Comments:
 - If you see anything wrong, please get in contact with me! I appreciate any feedback :)
