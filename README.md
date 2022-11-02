@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/danielray54/DeepPulse/blob/main/Resources/Dray23_Scientific_Multi-wavelength_Photoplethysmography_Cardiov_a7e8c3ad-2052-4e3f-9316-41fcb32237ef.png" data-canonical-src="https://github.com/danielray54/DeepPulse/blob/main/Resources/Dray23_Scientific_Multi-wavelength_Photoplethysmography_Cardiov_a7e8c3ad-2052-4e3f-9316-41fcb32237ef.png" width="400" height="400" />
 </p>
+
 >2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
 
 ## Datasets:
