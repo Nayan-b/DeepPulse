@@ -1,4 +1,4 @@
-![alt text](https://github.com/danielray54/DeepPulse/blob/main/Resources/Dray23_Scientific_Multi-wavelength_Photoplethysmography_Cardiov_a7e8c3ad-2052-4e3f-9316-41fcb32237ef.png?raw=true=250x250)
+![alt text](https://github.com/danielray54/DeepPulse/blob/main/Resources/Dray23_Scientific_Multi-wavelength_Photoplethysmography_Cardiov_a7e8c3ad-2052-4e3f-9316-41fcb32237ef.png?raw=true=25x25)
 
 
 # [DeepPulse: An Uncertainty-aware Deep Neural Network for Heart Rate Estimations from Wrist-worn Photoplethysmography](https://ieeexplore.ieee.org/document/9871813)
