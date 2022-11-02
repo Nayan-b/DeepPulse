@@ -29,7 +29,7 @@
   - Sensing modality fusion convoulutional architecture with bidirectional LSTM units.
   - Output is a normal distribution with $\mu$ and $\sigma$.
   - Samples from predictive distribution using MC dropout
-	![DeepPulse Architecture](./Resources/arch-1.png "DeepPusle")
+	![DeepPulse Architecture](https://github.com/danielray54/DeepPulse/blob/main/Resources/arch-1.png "DeepPusle")
     
 ## Results
 - All results are from unseen data, i.e. the test sets of each fold. 
