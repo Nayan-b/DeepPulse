@@ -7,7 +7,7 @@
 
 ## Running the Code:
 1. Open `DeepPulse.ipynb` in a google colab instance.
-2. Connect to a GPU
+2. Connect to a GPU --> Runtime > Change runtime type
 3. Select Runtime > Run All
 
 ## Datasets:
