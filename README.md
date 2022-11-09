@@ -6,7 +6,7 @@
 </p>
 
 ## Running the Code:
-1. Open `DeepPulse.ipynb` in a google colab instance.
+1. Open `DeepPulse.ipynb` and click on "Open in Colab" button.
 2. Connect to a GPU --> Runtime > Change runtime type
 3. Select Runtime > Run All
 
