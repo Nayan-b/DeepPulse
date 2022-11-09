@@ -5,6 +5,11 @@
   <img src="https://github.com/danielray54/DeepPulse/blob/main/Resources/DeepPulse.png" data-canonical-src="https://github.com/danielray54/DeepPulse/blob/main/Resources/DeepPulse.png" width="400" height="400" />
 </p>
 
+## Running the Code:
+1. Open `DeepPulse.ipynb` in a google colab instance.
+2. Connect to a GPU
+3. Select Runtime > Run All
+
 ## Datasets:
 1. IEEE Train & Test
   - [Z. Zhang, Z. Pi, B. Liu, TROIKA: A general framework for heart rate monitoring using wrist-type photoplethysmographic signals during intensive physical exercise, IEEE Transactions on Biomedical Engineering, vol. 62, no. 2, pp. 522-531, February 2015, DOI: 10.1109/TBME.2014.2359372](https://ieeexplore.ieee.org/document/6905737)
