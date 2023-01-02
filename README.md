@@ -37,7 +37,7 @@
   - Output is a normal distribution with $\mu$ and $\sigma$.
   - Samples from predictive distribution using MC dropout
   	<p align="center">
-		  <img src="https://github.com/danielray54/DeepPulse/blob/main/Resources/arch-1.png" data-canonical-src="https://github.com/danielray54/DeepPulse/blob/main/Resources/arch-1.png" width="800" height="550" />
+		  <img src="https://github.com/danielray54/DeepPulse/blob/main/Resources/arch-1.png" data-canonical-src="https://github.com/danielray54/DeepPulse/blob/main/Resources/arch-1.png" width="950" height="650" />
 	</p>
 	
 ## Training & Cross-validation Scheme:
