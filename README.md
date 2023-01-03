@@ -51,6 +51,16 @@
 - To get a deeper look at model performance, view the png files in each experiment folder. There is a training and calibration image for each fold plus an overall image with lots of graphs :)
 - More info on Uncertainty Calibration metrics: [Miscalibration Area & Sharpness](https://github.com/uncertainty-toolbox/uncertainty-toolbox/blob/main/docs/glossary.md)
 
+<ins>Original Architecture:</ins>
+
+| Dataset | Mean Abs Err | Mean Max Abs Err | Miscalibration Area | Sharpness | Bias | Variance |
+|---------|-----|--------|---------------------|-----------|-----------|-----------|
+| IEEE    | |  |  |  |  |  |
+| BAMI    | |  |  |  |  |  |
+| DaLiA   | |  |  |  |  |  |
+
+<ins>Optimised Architecture:</ins>
+
 | Dataset | Mean Abs Err | Mean Max Abs Err | Miscalibration Area | Sharpness | Bias | Variance |
 |---------|-----|--------|---------------------|-----------|-----------|-----------|
 | IEEE    | 1.160 ± 0.475 BPM | 9.994 ± 9.943 BPM | 0.177 ± 0.067 | 3.199 ± 0.469 | 319.629 ± 212.662 | 316.208 ±	213.480 |
