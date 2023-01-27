@@ -50,7 +50,10 @@
 - All results are from unseen data, i.e. the test sets of each fold. 
 - To get a deeper look at model performance, view the png files in each experiment folder. There is a training and calibration image for each fold plus an overall image with lots of graphs :)
 - More info on Uncertainty Calibration metrics: [Miscalibration Area & Sharpness](https://github.com/uncertainty-toolbox/uncertainty-toolbox/blob/main/docs/glossary.md)
+
+
 NB: We are currently running the algorithm again to get a fresh set of results for this github!
+
 <ins>Original Architecture:</ins>
 
 | Dataset | Mean Abs Err | Mean Max Abs Err | Miscalibration Area | Sharpness | Bias | Variance |
